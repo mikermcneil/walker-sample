@@ -1,47 +1,13 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "walker-sample@0.0.0",
-        "scope": null,
-        "escapedName": "walker-sample",
-        "name": "walker-sample",
-        "rawSpec": "0.0.0",
-        "spec": "0.0.0",
-        "type": "version"
-      },
-      "/Users/mike/code/apep"
-    ]
-  ],
-  "_from": "walker-sample@0.0.0",
-  "_id": "walker-sample@0.0.0",
-  "_inCache": true,
-  "_location": "/walker-sample",
-  "_nodeVersion": "5.0.0",
-  "_npmUser": {
-    "name": "mattbierner",
-    "email": "mattbierner@gmail.com"
+  "name": "@sailshq/walker-sample",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattbierner/walker-sample.git"
   },
-  "_npmVersion": "3.3.9",
-  "_phantomChildren": {},
-  "_requested": {
-    "raw": "walker-sample@0.0.0",
-    "scope": null,
-    "escapedName": "walker-sample",
-    "name": "walker-sample",
-    "rawSpec": "0.0.0",
-    "spec": "0.0.0",
-    "type": "version"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/walker-sample/-/walker-sample-0.0.0.tgz",
-  "_shasum": "caf0104c7b7bbb370ee1dbc601b8bf4394a770a9",
-  "_shrinkwrap": null,
-  "_spec": "walker-sample@0.0.0",
-  "_where": "/Users/mike/code/apep",
+  "scripts": {},
+  "version": "0.0.2",
   "author": {
     "name": "Matt Bierner"
   },
@@ -55,11 +21,6 @@
     "mocha": "*"
   },
   "directories": {},
-  "dist": {
-    "shasum": "caf0104c7b7bbb370ee1dbc601b8bf4394a770a9",
-    "tarball": "https://registry.npmjs.org/walker-sample/-/walker-sample-0.0.0.tgz"
-  },
-  "gitHead": "ab4e67e649fd45114c7c10017303f3353d0feaa6",
   "homepage": "https://github.com/mattbierner/walker-sample#readme",
   "keywords": [
     "walker",
@@ -74,14 +35,5 @@
       "name": "mattbierner",
       "email": "mattbierner@gmail.com"
     }
-  ],
-  "name": "walker-sample",
-  "optionalDependencies": {},
-  "readme": "ERROR: No README data found!",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mattbierner/walker-sample.git"
-  },
-  "scripts": {},
-  "version": "0.0.2"
+  ]
 }
